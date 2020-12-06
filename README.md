@@ -1,1 +1,2 @@
 # IRF_Project1
+CÉL: Egy olyan alkalmazásfelület létrehozása, amin egy autószervíz/műhely tudja vezetni az ügyfeleit. Adatbázis segítségével tudjuk nézni a korábbi ügyfeleink adatait, hogy milyen autója volt, mikor hozta be szervizelni és milyen szolgáltatásokat vett igéynbe. Az alkalmazásban lehetőség lenne felvinni új ügyfeleket is, akinél meg tudjuk adni a szükséges információkat, amiket tárol a rendszer. Miután elvégeztünk minden módosítást, a jelenlegi ügyfeleinket ki tudjuk exportálni egy csv fileba későbbi használatra.
